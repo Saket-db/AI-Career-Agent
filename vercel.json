@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npm run build:production",
+  "env": {
+    "SKIP_ENV_VALIDATION": "true",
+    "NODE_ENV": "production"
+  },
+  "functions": {
+    "app/api/**": {
+      "maxDuration": 60
+    }
+  },
+  "framework": "nextjs"
+}

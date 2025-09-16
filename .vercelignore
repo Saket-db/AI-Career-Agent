@@ -1,0 +1,6 @@
+node_modules/react-markdown/lib/complex-types.ts
+node_modules/**/*.d.ts
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+**/*.spec.tsx
