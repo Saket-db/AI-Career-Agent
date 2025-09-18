@@ -27,7 +27,7 @@ export default function Home() {
       <header className="w-full px-6 py-4 flex items-center justify-between border-b border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-sm">P</span>
+            <span className="text-white font-bold text-sm">H</span>
           </div>
           <span className="text-xl font-semibold text-gray-900 dark:text-white">
             HorizonAI
@@ -67,7 +67,7 @@ export default function Home() {
               size="lg"
               variant="outline"
               className="border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 px-8 py-3 rounded-lg font-medium transition-colors"
-              onClick={() => window.open("https://github.com/SaketDB83/HorizonAI", "_blank")}
+              onClick={() => window.open("https://github.com/Saket-db/AI-Career-Agent", "_blank")}
             >
               <Github className="w-4 h-4 mr-2" />
               View on GitHub
