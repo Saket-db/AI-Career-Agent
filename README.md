@@ -1,6 +1,6 @@
-# PrepAIre - AI Career Coach Agent
+# HorizonAI - AI Career Coach Agent
 
-PrepAIre is your personalized AI career coach agent built with Next.js. Get tailored career roadmaps, expert advice, and resume analysis designed just for you.
+HorizonAI is your personalized AI career coach agent built with Next.js. Get tailored career roadmaps, expert advice, and resume analysis designed just for you.
 
 ## Features
 

@@ -30,7 +30,7 @@ export default function Home() {
             <span className="text-white font-bold text-sm">P</span>
           </div>
           <span className="text-xl font-semibold text-gray-900 dark:text-white">
-            PrepAIre
+            HorizonAI
           </span>
         </div>
         <div className="flex items-center gap-3">
@@ -67,7 +67,7 @@ export default function Home() {
               size="lg"
               variant="outline"
               className="border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 px-8 py-3 rounded-lg font-medium transition-colors"
-              onClick={() => window.open("https://github.com/SaketDB83/PrepAIre", "_blank")}
+              onClick={() => window.open("https://github.com/SaketDB83/HorizonAI", "_blank")}
             >
               <Github className="w-4 h-4 mr-2" />
               View on GitHub
@@ -139,7 +139,7 @@ export default function Home() {
                 Created by <span className="font-medium text-gray-900 dark:text-white">Saket DB</span>
               </p>
               <p>
-                PrepAIre is designed to help you reach new heights in your career journey 
+                HorizonAI is designed to help you reach new heights in your career journey 
                 with the power of artificial intelligence.
               </p>
               <a

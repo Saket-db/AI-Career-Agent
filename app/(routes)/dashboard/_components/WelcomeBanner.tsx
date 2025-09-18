@@ -9,7 +9,7 @@ function WelcomeBanner() {
         Welcome{user?.firstName ? `, ${user.firstName}` : ""}!
       </h2>
       <p className="text-lg font-medium">
-        PrepAIre is your personalized AI career coach agent. Get tailored career roadmaps, expert advice, and resume scans designed just for you. Take the next step in your career journey with confidence and clarity.
+        HorizonAI is your personalized AI career coach agent. Get tailored career roadmaps, expert advice, and resume scans designed just for you. Take the next step in your career journey with confidence and clarity.
       </p>
     </div>
   )
